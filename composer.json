@@ -1,0 +1,10 @@
+{
+    "name": "josecapurro/drupal8module",
+    "type": "drupal-custom-module", 
+    "description": "This is a test module",
+    "homepage": "https://github.com/josecapurro/drupal8module",
+    "require": {
+        "php": "*"
+    },
+    "minimum-stability": "dev"
+}

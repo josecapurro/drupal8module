@@ -1,0 +1,7 @@
+drupal8module.content:
+    path: '/drupal8module'
+    defaults:
+        _controller: '\Drupal\drupal8module\Controller\Drupal8ModuleController::content'
+        _title: 'Drupal8Module'
+    requirements:
+        _permission: 'access content'
